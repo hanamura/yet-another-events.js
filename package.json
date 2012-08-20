@@ -1,0 +1,13 @@
+{
+	"name": "yet-another-events",
+	"version": "0.1.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/hanamura/yet-another-events.js.git"
+	},
+	"devDependencies": {
+		"grunt-shell": ">= 0.1.2",
+		"grunt-contrib": ">= 0.1.4"
+	},
+	"main": "./index.js"
+}
